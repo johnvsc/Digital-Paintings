@@ -8,7 +8,7 @@ To this point, I have never sought the sale of my artwork. For me, this seems li
 
 The images in this repository are there for you to download and think about. Put them on your desktop, your flatscreens, your mobile devices. According to a Creative Commons License, you are free to Share — to copy, distribute and transmit the work and to make commercial use of the work. For this GIT HUB repository only, you are free to fork it and make derivatives of them. The only restriction is that you acknowledge the original, publicly somewhere through your distribution channels.
 
-Here is a more complete explaination: http://creativecommons.org/licenses/by-nd/3.0/
+Here is a more complete explanation: http://creativecommons.org/licenses/by-nd/3.0/
 
 More work can be found here: https://fa.zavocki.com
 
